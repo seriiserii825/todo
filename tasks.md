@@ -1,3 +1,2 @@
-icon extension script add icon name
-base extension check
-
+- rn.sh rename digits find if have digits at start
+- move rn.sh to pyscripts
